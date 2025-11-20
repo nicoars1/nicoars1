@@ -2,4 +2,4 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript & Python
 - 📫 How to reach me nicolas.arsegot.gustavo@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nicoars1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nicoars1)](https://git.io/streak-stats)
